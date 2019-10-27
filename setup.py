@@ -1,5 +1,5 @@
 from distutils.core import setup
-import setuptools
+import setuptools  # noqa: F401
 
 setup(
     name='node2vec',
